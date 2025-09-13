@@ -1,0 +1,21 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="MenuFinal">
+			<method name="IrAlMenu"/>
+			<method name="Salir"/>
+			<method name="VolverAJugar"/>
+		</type>
+		<type fullname="MenuInicial">
+			<method name="Jugar"/>
+			<method name="Puntajes"/>
+			<method name="Salir"/>
+		</type>
+		<type fullname="NameInputUI">
+			<method name="StartGame"/>
+		</type>
+		<type fullname="PuntajesUI">
+			<method name="LimpiarTabla"/>
+			<method name="VolverAlMenu"/>
+		</type>
+	</assembly>
+</linker>

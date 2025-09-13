@@ -1,0 +1,521 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1757737446517449, "dur":71, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1757737446517554, "dur":43613, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1757737446561179, "dur":152, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1757737446561375, "dur":418, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1757737446562064, "dur":80, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":0, "ts":1757737446562424, "dur":152, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":0, "ts":1757737446563701, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1757737446563871, "dur":321, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1757737446564537, "dur":132, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1757737446564950, "dur":106, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1757737446561817, "dur":4404, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1757737446566223, "dur":1536061, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1757737448102286, "dur":233, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1757737448102708, "dur":1587, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1757737446564337, "dur":2645, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1757737446567163, "dur":836, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":1, "ts":1757737446568359, "dur":1617, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1757737446566987, "dur":3595, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1757737446570583, "dur":904, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Threading.Tasks.Dataflow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1757737446572358, "dur":1867, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Reactive.PlatformServices.dll" }}
+,{ "pid":12345, "tid":1, "ts":1757737446570583, "dur":3643, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1757737446575109, "dur":905, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1757737446574226, "dur":2630, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1757737446576856, "dur":11704, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1757737446588568, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1757737446588638, "dur":332, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1757737446589157, "dur":11985, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1757737446601200, "dur":296856, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1757737446601143, "dur":296916, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1757737446898086, "dur":3213, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1757737446901363, "dur":438259, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Mono.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1757737446901305, "dur":438320, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1757737447339661, "dur":2027, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1757737447341742, "dur":48154, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1757737447341692, "dur":48207, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1757737447389931, "dur":33062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1757737447423074, "dur":106470, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1757737447422999, "dur":106547, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1757737447529559, "dur":2909, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1757737447532524, "dur":56056, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1757737447532471, "dur":56111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1757737447588606, "dur":1581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1757737447590242, "dur":173316, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1757737447590192, "dur":173369, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1757737447763589, "dur":2582, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1757737447766219, "dur":103463, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1757737447766174, "dur":103512, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1757737447869711, "dur":1730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1757737447871541, "dur":66414, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1757737447871445, "dur":66512, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1757737447938004, "dur":1788, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1757737447939795, "dur":162516, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1757737446563817, "dur":2415, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1757737446575381, "dur":1063, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.36f1/Editor/Data/il2cpp/build/deploy" }}
+,{ "pid":12345, "tid":2, "ts":1757737446576444, "dur":8504, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.36f1/Editor/Data/il2cpp/libil2cpp" }}
+,{ "pid":12345, "tid":2, "ts":1757737446584949, "dur":147, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.36f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport" }}
+,{ "pid":12345, "tid":2, "ts":1757737446585096, "dur":2078, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.36f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono" }}
+,{ "pid":12345, "tid":2, "ts":1757737446587175, "dur":131, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.36f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/Data/Resources" }}
+,{ "pid":12345, "tid":2, "ts":1757737446587307, "dur":343, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.36f1/Editor/Data/Tools/BuildPipeline" }}
+,{ "pid":12345, "tid":2, "ts":1757737446587650, "dur":276, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"Library/PlayerDataCache/Win642/Data" }}
+,{ "pid":12345, "tid":2, "ts":1757737446587926, "dur":71, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"Temp/StagingArea/Data/Plugins" }}
+,{ "pid":12345, "tid":2, "ts":1757737446566241, "dur":21814, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1757737446588068, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteResponseFile Library/Bee/artifacts/rsp/4167761004856074451.rsp" }}
+,{ "pid":12345, "tid":2, "ts":1757737446588130, "dur":84, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1757737446588248, "dur":1463, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"UnityLinker C:/Users/uvald/OneDrive/Escritorio/Unity Carpets/Shooter_de_feria/Library/Bee/artifacts/unitylinker_dwek.traceevents" }}
+,{ "pid":12345, "tid":2, "ts":1757737446589712, "dur":3850, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1757737446601158, "dur":131905, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1757737446601090, "dur":131976, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1757737446733316, "dur":1202, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1757737446734572, "dur":191161, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":2, "ts":1757737446734522, "dur":191214, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":2, "ts":1757737446925766, "dur":2069, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":2, "ts":1757737446927906, "dur":66127, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1757737446927841, "dur":66194, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1757737446994058, "dur":2830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1757737446996941, "dur":126208, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1757737446996893, "dur":126259, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1757737447123174, "dur":1691, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1757737447124923, "dur":50876, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1757737447124870, "dur":50931, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1757737447175823, "dur":1679, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1757737447177557, "dur":130980, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1757737447177507, "dur":131032, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1757737447310404, "dur":82, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1757737447308598, "dur":1905, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1757737447310565, "dur":143574, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1757737447310508, "dur":143633, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1757737447454169, "dur":5860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1757737447460093, "dur":186252, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1757737447460034, "dur":186314, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1757737447646378, "dur":1553, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1757737447647988, "dur":129760, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1757737447647936, "dur":129814, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1757737447777772, "dur":7998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1757737447785827, "dur":174429, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1757737447785775, "dur":174489, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1757737447960299, "dur":1659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1757737447961963, "dur":140347, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1757737446564365, "dur":2821, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1757737446567570, "dur":1475, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Private.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":3, "ts":1757737446567192, "dur":2334, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1757737446570147, "dur":1253, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.TinyProfiler2.dll" }}
+,{ "pid":12345, "tid":3, "ts":1757737446569527, "dur":2011, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1757737446571649, "dur":2573, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Facades\\System.Xml.Xsl.Primitives.dll" }}
+,{ "pid":12345, "tid":3, "ts":1757737446571538, "dur":4478, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1757737446576016, "dur":12042, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1757737446588108, "dur":173, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1757737446588299, "dur":1143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1757737446589551, "dur":11707, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1757737446601314, "dur":359118, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1757737446601261, "dur":359174, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1757737446960458, "dur":1925, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1757737446962442, "dur":110946, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Transactions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1757737446962388, "dur":111002, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1757737447073422, "dur":1818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1757737447075298, "dur":131545, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1757737447075246, "dur":131600, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1757737447206867, "dur":3528, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1757737447210453, "dur":104694, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1757737447210401, "dur":104749, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1757737447315177, "dur":1700, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1757737447316934, "dur":99903, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1757737447316881, "dur":99959, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1757737447416867, "dur":2823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1757737447419764, "dur":191330, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1757737447419696, "dur":191401, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1757737447611174, "dur":1849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1757737447613213, "dur":116211, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1757737447613029, "dur":116398, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1757737447729458, "dur":7186, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1757737447736747, "dur":363810, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":3, "ts":1757737447736647, "dur":363914, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":3, "ts":1757737448100606, "dur":1630, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":4, "ts":1757737446564479, "dur":3358, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1757737446568486, "dur":1483, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.AppContext.dll" }}
+,{ "pid":12345, "tid":4, "ts":1757737446567847, "dur":2377, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1757737446570903, "dur":958, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Web.DynamicData.dll" }}
+,{ "pid":12345, "tid":4, "ts":1757737446570224, "dur":1742, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1757737446571966, "dur":1619, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1757737446573585, "dur":857, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1757737446575383, "dur":631, "ph":"X", "name": "File",  "args": { "detail":"Library\\PlayerDataCache\\Win642\\Data\\globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":4, "ts":1757737446574443, "dur":1958, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1757737446576402, "dur":12277, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1757737446588679, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1757737446588744, "dur":344, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1757737446589132, "dur":11957, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1757737446601185, "dur":117556, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1757737446601090, "dur":117653, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1757737446719852, "dur":2881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1757737446722793, "dur":805198, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1757737446722738, "dur":805255, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1757737447528042, "dur":2598, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1757737447530689, "dur":59580, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1757737447530643, "dur":59628, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1757737447590291, "dur":2113, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1757737447592470, "dur":63902, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1757737447592409, "dur":63965, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1757737447656406, "dur":1766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1757737447658234, "dur":171918, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1757737447658177, "dur":171978, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1757737447830173, "dur":2604, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1757737447832833, "dur":215566, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1757737447832782, "dur":215619, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1757737448048426, "dur":1551, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1757737448049981, "dur":52339, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1757737446564623, "dur":3226, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1757737446568731, "dur":1908, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\il2cpp\\build\\deploy\\il2cpp-compile.runtimeconfig.json" }}
+,{ "pid":12345, "tid":5, "ts":1757737446567855, "dur":2827, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1757737446570793, "dur":1066, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Reactive.Experimental.dll" }}
+,{ "pid":12345, "tid":5, "ts":1757737446570683, "dur":1775, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1757737446572458, "dur":729, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1757737446573188, "dur":919, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1757737446574108, "dur":949, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1757737446575057, "dur":13672, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1757737446588730, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":5, "ts":1757737446588830, "dur":310, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/D3D12/D3D12Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1757737446589181, "dur":11954, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1757737446601186, "dur":155773, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.dll" }}
+,{ "pid":12345, "tid":5, "ts":1757737446601135, "dur":155827, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":5, "ts":1757737446757014, "dur":6633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":5, "ts":1757737446763716, "dur":256856, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1757737446763652, "dur":256924, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1757737447020609, "dur":2074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1757737447022746, "dur":166193, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1757737447022688, "dur":166254, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1757737447194070, "dur":98, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1757737447188988, "dur":5239, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1757737447194317, "dur":195036, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":5, "ts":1757737447194232, "dur":195123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":5, "ts":1757737447389373, "dur":7714, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":5, "ts":1757737447397136, "dur":78313, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1757737447397092, "dur":78359, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1757737447475466, "dur":1403, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1757737447476946, "dur":50032, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1757737447476874, "dur":50106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1757737447526997, "dur":1449, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1757737447528495, "dur":202747, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1757737447528450, "dur":202796, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1757737447731272, "dur":5312, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1757737447736639, "dur":294990, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1757737447736589, "dur":295043, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1757737448031657, "dur":2890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1757737448034550, "dur":67747, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1757737446564115, "dur":2135, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1757737446566775, "dur":1010, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\il2cpp\\build\\deploy\\UnityLinker.dll.config" }}
+,{ "pid":12345, "tid":6, "ts":1757737446566264, "dur":2199, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1757737446568464, "dur":2172, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\il2cpp\\build\\deploy\\Analytics.Api.Output.xml" }}
+,{ "pid":12345, "tid":6, "ts":1757737446571358, "dur":2984, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\Tools\\BuildPipeline\\SharpYaml.dll" }}
+,{ "pid":12345, "tid":6, "ts":1757737446568464, "dur":6479, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1757737446574943, "dur":13266, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1757737446588213, "dur":134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":6, "ts":1757737446588348, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1757737446588415, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1757737446588469, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1757737446588552, "dur":160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1757737446588758, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria.exe" }}
+,{ "pid":12345, "tid":6, "ts":1757737446588850, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1757737446589043, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1757737446589113, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1757737446589200, "dur":12061, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1757737446606048, "dur":476160, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.dll" }}
+,{ "pid":12345, "tid":6, "ts":1757737446601261, "dur":480949, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":6, "ts":1757737447082240, "dur":3064, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":6, "ts":1757737447085353, "dur":143541, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1757737447085309, "dur":143587, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1757737447228924, "dur":3235, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1757737447232242, "dur":47779, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1757737447232168, "dur":47855, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1757737447280043, "dur":1389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1757737447281487, "dur":97229, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1757737447281437, "dur":97283, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1757737447378752, "dur":1600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1757737447380417, "dur":50473, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1757737447380357, "dur":50536, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1757737447430920, "dur":2808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1757737447433780, "dur":95284, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1757737447433734, "dur":95332, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1757737447529082, "dur":1515, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1757737447530677, "dur":91387, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1757737447530602, "dur":91464, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1757737447622086, "dur":1348, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1757737447623497, "dur":111288, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1757737447623440, "dur":111348, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1757737447734813, "dur":4358, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1757737447739232, "dur":94838, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1757737447739176, "dur":94896, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1757737447834093, "dur":1949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1757737447836101, "dur":65798, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1757737447836048, "dur":65853, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1757737447901931, "dur":8303, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1757737447910239, "dur":192042, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1757737446564230, "dur":2048, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1757737446567159, "dur":617, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\il2cpp\\build\\deploy\\Unity.Api.Attributes.dll" }}
+,{ "pid":12345, "tid":7, "ts":1757737446567852, "dur":2283, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Xml.XmlSerializer.dll" }}
+,{ "pid":12345, "tid":7, "ts":1757737446570512, "dur":899, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Xml.XDocument.dll" }}
+,{ "pid":12345, "tid":7, "ts":1757737446566285, "dur":5212, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1757737446571813, "dur":1134, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Microsoft.Build.dll" }}
+,{ "pid":12345, "tid":7, "ts":1757737446571498, "dur":2310, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1757737446573808, "dur":2189, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1757737446575998, "dur":12064, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1757737446588069, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":7, "ts":1757737446588223, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1757737446588303, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":7, "ts":1757737446588361, "dur":112, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1757737446588562, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1757737446588624, "dur":100, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1757737446588853, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1757737446588940, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1757737446589015, "dur":146, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1757737446589163, "dur":11924, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1757737446601173, "dur":285426, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1757737446601088, "dur":285514, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1757737446886626, "dur":5706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1757737446892398, "dur":535565, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\mscorlib.dll" }}
+,{ "pid":12345, "tid":7, "ts":1757737446892338, "dur":535629, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":7, "ts":1757737447427999, "dur":4096, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":7, "ts":1757737447432144, "dur":43177, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1757737447432099, "dur":43224, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1757737447475353, "dur":2997, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1757737447478406, "dur":51294, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1757737447478354, "dur":51348, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1757737447529714, "dur":1982, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1757737447531761, "dur":45382, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1757737447531703, "dur":45442, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1757737447577168, "dur":1451, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1757737447578673, "dur":40098, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1757737447578623, "dur":40151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1757737447618798, "dur":2889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1757737447621783, "dur":134917, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1757737447621702, "dur":135001, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1757737447756737, "dur":8201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1757737447764991, "dur":107145, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":7, "ts":1757737447764943, "dur":107196, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":7, "ts":1757737447872157, "dur":1241, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":7, "ts":1757737447873401, "dur":228881, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1757737446564275, "dur":2091, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1757737446567041, "dur":552, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Threading.Channels.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737446566372, "dur":1293, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1757737446567734, "dur":958, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.IO.Pipes.AccessControl.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737446569529, "dur":1478, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Globalization.Calendars.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737446567665, "dur":3432, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1757737446571098, "dur":1315, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\SMDiagnostics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737446572414, "dur":1359, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\RabbitMQ.Client.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737446574006, "dur":831, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Novell.Directory.Ldap.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737446571098, "dur":5179, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1757737446576277, "dur":12615, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1757737446588893, "dur":271, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":8, "ts":1757737446589202, "dur":12072, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1757737446601330, "dur":208925, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737446601275, "dur":208983, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737446810310, "dur":2151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737446812527, "dur":149218, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737446812466, "dur":149282, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737446961782, "dur":582, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1757737446962369, "dur":1334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737446963756, "dur":62422, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737446963707, "dur":62474, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737447026227, "dur":1990, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737447028378, "dur":64912, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737447028222, "dur":65070, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737447093314, "dur":1351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737447095095, "dur":144941, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737447094671, "dur":145367, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737447240057, "dur":36905, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737447277017, "dur":46109, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737447276968, "dur":46160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737447323153, "dur":17619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737447340824, "dur":48630, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737447340775, "dur":48681, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737447389473, "dur":3008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737447392539, "dur":67901, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737447392488, "dur":67955, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737447460467, "dur":2025, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737447462559, "dur":59683, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737447462498, "dur":59747, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737447522270, "dur":1517, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737447523852, "dur":84298, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737447523793, "dur":84360, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737447608180, "dur":1627, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737447609866, "dur":47856, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737447609812, "dur":47919, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737447657761, "dur":4084, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737447661901, "dur":325880, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737447661850, "dur":325934, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737447987843, "dur":1721, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1757737447989568, "dur":112734, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1757737446564312, "dur":2305, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1757737446566624, "dur":948, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1757737446568514, "dur":945, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Net.Http.Json.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737446567573, "dur":2206, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1757737446569891, "dur":2557, "ph":"X", "name": "File",  "args": { "detail":"Library\\Bee\\Playerc75ff8f3-inputdata.json" }}
+,{ "pid":12345, "tid":9, "ts":1757737446572601, "dur":942, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\WebMatrix.Data.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737446569780, "dur":4784, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1757737446574565, "dur":13993, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1757737446588558, "dur":363, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1757737446588921, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1757737446588998, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1757737446589171, "dur":11912, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1757737446601331, "dur":133419, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737446601085, "dur":133667, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737446734766, "dur":1410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737446736224, "dur":227043, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737446736180, "dur":227090, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737446963290, "dur":1595, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737446964950, "dur":90145, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737446964893, "dur":90205, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737447055129, "dur":1933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737447057117, "dur":45105, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737447057068, "dur":45156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737447102240, "dur":2217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737447104516, "dur":56239, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737447104461, "dur":56297, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737447160783, "dur":1764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737447162609, "dur":52324, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737447162553, "dur":52383, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737447214992, "dur":4639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737447219690, "dur":165726, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737447219636, "dur":165783, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737447385453, "dur":1763, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737447387277, "dur":138113, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737447387222, "dur":138171, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737447525415, "dur":1487, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737447526961, "dur":99791, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737447526908, "dur":99846, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737447626783, "dur":1963, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737447628821, "dur":136473, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737447628753, "dur":136542, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737447765312, "dur":3380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737447768741, "dur":104308, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737447768698, "dur":104353, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737447873051, "dur":357, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737447873421, "dur":1375, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1757737447874799, "dur":227490, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1757737446565041, "dur":2815, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1757737446568036, "dur":609, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\il2cpp\\build\\deploy\\createdump.exe" }}
+,{ "pid":12345, "tid":10, "ts":1757737446568718, "dur":1919, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\il2cpp\\build\\deploy\\clrjit.dll" }}
+,{ "pid":12345, "tid":10, "ts":1757737446570637, "dur":850, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\il2cpp\\build\\deploy\\clrgc.dll" }}
+,{ "pid":12345, "tid":10, "ts":1757737446571814, "dur":951, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\il2cpp\\build\\deploy\\Bee.Toolchain.VisionOS.dll" }}
+,{ "pid":12345, "tid":10, "ts":1757737446567862, "dur":5449, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1757737446573627, "dur":571, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Facades\\System.Diagnostics.FileVersionInfo.dll" }}
+,{ "pid":12345, "tid":10, "ts":1757737446574909, "dur":1117, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Facades\\System.Collections.NonGeneric.dll" }}
+,{ "pid":12345, "tid":10, "ts":1757737446573311, "dur":3125, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1757737446576436, "dur":11624, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1757737446588082, "dur":191, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1757737446588295, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1757737446588393, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1757737446588506, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1757737446588561, "dur":119, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1757737446588685, "dur":329, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1757737446589014, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1757737446589165, "dur":11920, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1757737446601259, "dur":279832, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1757737446601086, "dur":280007, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1757737446881123, "dur":5782, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1757737446886964, "dur":348244, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.dll" }}
+,{ "pid":12345, "tid":10, "ts":1757737446886909, "dur":349225, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":10, "ts":1757737447236161, "dur":3869, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":10, "ts":1757737447240096, "dur":76360, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":10, "ts":1757737447240036, "dur":76423, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":10, "ts":1757737447328281, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1757737447316482, "dur":11867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":10, "ts":1757737447328407, "dur":78340, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1757737447328353, "dur":78397, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1757737447406775, "dur":1961, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1757737447408791, "dur":307824, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1757737447408741, "dur":307877, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1757737447716641, "dur":2528, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1757737447719226, "dur":108680, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1757737447719176, "dur":108733, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1757737447827933, "dur":1958, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1757737447829949, "dur":135232, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1757737447829897, "dur":135287, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1757737447965215, "dur":1651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1757737447966872, "dur":135450, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1757737446565128, "dur":2922, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1757737446568923, "dur":1778, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\il2cpp\\build\\deploy\\Analytics.exe" }}
+,{ "pid":12345, "tid":11, "ts":1757737446568051, "dur":2730, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1757737446571096, "dur":1382, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Data.Services.dll" }}
+,{ "pid":12345, "tid":11, "ts":1757737446570781, "dur":2242, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1757737446573369, "dur":531, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Facades\\System.Net.NetworkInformation.dll" }}
+,{ "pid":12345, "tid":11, "ts":1757737446573023, "dur":1912, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1757737446574936, "dur":13835, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1757737446588772, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":11, "ts":1757737446588907, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1757737446589042, "dur":143, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1757737446589187, "dur":12043, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1757737446601286, "dur":230401, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":11, "ts":1757737446601231, "dur":230458, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":11, "ts":1757737446831712, "dur":1590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":11, "ts":1757737446833470, "dur":162809, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Numerics.dll" }}
+,{ "pid":12345, "tid":11, "ts":1757737446833307, "dur":162975, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":11, "ts":1757737446996305, "dur":1347, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":11, "ts":1757737446997701, "dur":184406, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1757737446997655, "dur":184454, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1757737447186609, "dur":66, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1757737447182362, "dur":4331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1757737447186759, "dur":92248, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":11, "ts":1757737447186698, "dur":92312, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":11, "ts":1757737447279033, "dur":3422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":11, "ts":1757737447282501, "dur":140520, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1757737447282458, "dur":140565, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1757737447423042, "dur":1743, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1757737447424842, "dur":512685, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":11, "ts":1757737447424790, "dur":512739, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":11, "ts":1757737447937550, "dur":1825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":11, "ts":1757737447939381, "dur":162924, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1757737446564390, "dur":3437, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1757737446568526, "dur":1030, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Diagnostics.Tools.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737446569952, "dur":1335, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Data.Common.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737446571324, "dur":1361, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Console.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737446567835, "dur":4851, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1757737446572686, "dur":1401, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1757737446574129, "dur":1612, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737446574088, "dur":2832, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1757737446576921, "dur":11145, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1757737446588069, "dur":261, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":12, "ts":1757737446588334, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1757737446588412, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1757737446588570, "dur":83, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1757737446588960, "dur":140, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1757737446589155, "dur":11994, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1757737446601199, "dur":311016, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737446601149, "dur":311068, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737446912244, "dur":1706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737446914013, "dur":86226, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737446913955, "dur":86286, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737447000263, "dur":1652, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737447001968, "dur":99716, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737447001920, "dur":99767, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737447101710, "dur":2857, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737447104635, "dur":100458, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737447104569, "dur":100526, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737447205121, "dur":5840, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737447211010, "dur":48671, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737447210966, "dur":48717, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737447259713, "dur":5328, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737447265128, "dur":64785, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737447265047, "dur":64868, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737447329942, "dur":10375, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737447340380, "dur":48381, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737447340321, "dur":48442, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737447388784, "dur":2161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737447391007, "dur":85991, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737447390952, "dur":86048, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737447477014, "dur":5587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737447482653, "dur":202425, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737447482607, "dur":202478, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737447685139, "dur":5164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737447690363, "dur":73210, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737447690308, "dur":73267, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737447763591, "dur":1518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737447765161, "dur":73114, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737447765112, "dur":73267, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737447838445, "dur":10685, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737447849187, "dur":85322, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737447849135, "dur":85376, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737447934541, "dur":1722, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutable/Shooter_de_feria_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1757737447936268, "dur":166011, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1757737448108810, "dur":1490, "ph":"X", "name": "ProfilerWriteOutput" }
+,
